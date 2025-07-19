@@ -9,7 +9,7 @@ Tenho interesse em desenvolvimento web (Front e Back-end) e estou constantemente
 - Git e GitHub  
 - Boas práticas de código e UI/UX  
 
-## 💼 Projetos em Destaque
+## 💼 Projetos
 - Repositórios com foco em aprendizado e prática de desenvolvimento web
 - Interfaces simples, funcionais e com atenção à usabilidade
 - Sempre buscando evoluir e aplicar boas práticas
